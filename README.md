@@ -72,7 +72,7 @@
 
 <br>
 
- <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact</h2>  
+ <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Contact</h2>  
 <div align="center">
   <a href="mailto:aw7216@gmail.com">
     <img
@@ -81,7 +81,7 @@
 </div>
 
 <br/>
- <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;">📈 GitHub Stats 📈</h2> 
+ <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;">📈 GitHub Stats</h2> 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=minji4252&bg_color=60,fed7d7,fff0f0&title_color=5a5353&text_color=5a5353" /> 
   </div>
