@@ -5,18 +5,30 @@
 </div>
 
 <!--인삿말-->
-   <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 😊 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-      <li>🌟저는 지속적으로 발전하는 프론트엔드 개발자입니다.</li>
-      <li>📚 현재 ```React```, Next를 공부하고 있습니다.</li>
-      <li>🎨 UI/UX 디자인에 대한 관심을 가지고 있습니다.</li>
-      <li>🚀 새로운 웹 기술을 탐구하고 프로젝트에 적용하는 것을 즐깁니다.</li>
-      <li>📫 연락 방법: aw7216@gmail.com / 010-4252-7575</li>
+   <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😊 Introduce  </h2>  
+    <div align="center">
+      안녕하세요!
+      <br/>
+      지속적으로 발전하는 프론트엔드 개발자 김민지입니다.
+      <br/>
+      협업과 도전에서 즐거움과 성취감을 느낍니다.
+    </div>
     
- <br/> <br/> <br/>
+ <br/> 
 
 <!--내용 부분-->
-   <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Front-End Tech Stack ✨ </h2>  
+   <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤝 Cooperate Projects</h2>  
+
+   <div align= "center" style="font-weight: 700; font-size: 15px; color: #282d33;">
+       <a href="https://github.com/minji4252/petmily">[1차] 반려동물 일정관리 서비스</a>
+     <br/>
+  <a href="https://github.com/minji4252/glampick">[2차-3차] 글램핑장 예약 서비스</a>
+  <br/>
+       <a href="https://github.com/minji4252/clone-kkowith"> [mini] 카카오같이가치 협업 클론코딩(반응형)</a>
+   </div>
+    <br/> 
+
+   <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Front-End Tech Stack </h2>  
  <div  align= "center"> 
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -38,7 +50,7 @@
     
 <br>
 
- <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠 Tools 🛠 </h2>  
+ <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠 Tools </h2>  
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -60,7 +72,7 @@
 
 <br>
 
- <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact 📫</h2>  
+ <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact</h2>  
 <div align="center">
   <a href="mailto:aw7216@gmail.com">
     <img
